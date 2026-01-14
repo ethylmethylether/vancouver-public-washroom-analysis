@@ -30,7 +30,7 @@ All GeoJSON files used for the analysis:
 ### **Outputs**
 - `vancouver_map.png` – Final map showing parks, transit lines, stations, and public washrooms
 - `parks_washroom_analysis_m2.csv` – Table with each park’s name, area (m²), washroom count, and density (pw/m²)
-- `parks_with_no_washrooms.geojson` – GeoJSON file containing parks that have no public washrooms
+- `top5_parks.png` – Top 5 parks with most public washrooms
 
 ---
 
